@@ -1,6 +1,6 @@
 # Differential Privacy Budget Optimisation for ECG Classification
 
-Bachelor Thesis — German University in Cairo (GUC), 2025  
+Bachelor Thesis — German University in Cairo (GUC), 2026  
 **Author:** Zeyad Mohamed Elsayed Hamed Saadoun  
 **Supervisor:** Dr. Tamer Mostafa  
 
